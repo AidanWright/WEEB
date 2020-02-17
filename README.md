@@ -1,5 +1,5 @@
 # BWEER/S
-**Bootstrap + Webpack + Express + Ejs + RethinkDB/SQLite**
+###### **Bootstrap + Webpack + Express + Ejs + RethinkDB/SQLite**
 
 [![CircleCI](https://circleci.com/gh/AidanWright/BWEER-S.svg?style=shield)](https://circleci.com/gh/AidanWright/BWEER-S) [![codecov](https://codecov.io/gh/AidanWright/BWEER-S/branch/master/graph/badge.svg)](https://codecov.io/gh/AidanWright/BWEER-S) [![](https://david-dm.org/AidanWright/BWEER-S.svg)](https://david-dm.org/AidanWright/BWEER-S) [![](https://david-dm.org/AidanWright/BWEER-S/dev-status.svg)](https://david-dm.org/AidanWright/BWEER-S?type=dev) [![HitCount](http://hits.dwyl.com/AidanWright/BWEER-S.svg)](http://hits.dwyl.com/AidanWright/BWEER-S)
 --
