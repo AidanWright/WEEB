@@ -1,5 +1,5 @@
 # WEEB
-###### **Bootstrap + Webpack + Express + Ejs + RethinkDB/SQLite**
+###### **Webpack + Express + Ejs + Bootstrap**
 
 [![Build Status](https://travis-ci.com/AidanWright/WEEB.svg?branch=master)](https://travis-ci.com/AidanWright/WEEB) [![codecov](https://codecov.io/gh/AidanWright/WEEB/branch/master/graph/badge.svg)](https://codecov.io/gh/AidanWright/WEEB) [![](https://david-dm.org/AidanWright/WEEB.svg)](https://david-dm.org/AidanWright/WEEB) [![](https://david-dm.org/AidanWright/WEEB/dev-status.svg)](https://david-dm.org/AidanWright/WEEB?type=dev) [![Known Vulnerabilities](https://snyk.io/test/github/AidanWright/WEEB/badge.svg?targetFile=package.json)](https://snyk.io/test/github/AidanWright/WEEB?targetFile=package.json) [![HitCount](http://hits.dwyl.com/AidanWright/WEEB.svg)](http://hits.dwyl.com/AidanWright/WEEB)
 --
@@ -46,10 +46,6 @@ Eslint uses the rules found in [.eslintrc.js](.eslintrc.js) to lint and does not
 And
 
 `npm run lint:fix` will run Eslint and fix the found mistakes. This is run during every production build
-
-## Google App Engine Flex Deployment
-
-Expack can be deployed directly to Google App Engine Flex with the command `npm run deploy`. **IMPORTANT:** Currently `app.yaml` is configured to use minimal resources to save on cost, which is great for development but terrible for production. Please review and update `app.yaml` to suit your own needs.
 
 ## Contributing
 
