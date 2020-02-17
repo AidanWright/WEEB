@@ -1,5 +1,6 @@
 # BWEER/S
 **Bootstrap + Webpack + Express + Ejs + RethinkDB/SQLite**
+
 [![CircleCI](https://circleci.com/gh/AidanWright/BWEER-S.svg?style=shield)](https://circleci.com/gh/AidanWright/BWEER-S) [![codecov](https://codecov.io/gh/AidanWright/BWEER-S/branch/master/graph/badge.svg)](https://codecov.io/gh/AidanWright/BWEER-S) [![](https://david-dm.org/AidanWright/BWEER-S.svg)](https://david-dm.org/AidanWright/BWEER-S) [![](https://david-dm.org/AidanWright/BWEER-S/dev-status.svg)](https://david-dm.org/AidanWright/BWEER-S?type=dev) [![HitCount](http://hits.dwyl.com/AidanWright/BWEER-S.svg)](http://hits.dwyl.com/AidanWright/BWEER-S)
 --
 BWEER/S is a modified version of Ben Grunfeld's [Expack](https://github.com/bengrunfeld/expack)--a boilerplate with [ES6+ babel transpilation](https://babeljs.io/docs/en/), [ESLint](https://eslint.org/) linting, [Hot Module Replacement](https://webpack.js.org/guides/hot-module-replacement/), and [Jest test framework](https://jestjs.io/)--that uses [Bootstrap](https://getbootstrap.com/) for easy templating, [Ejs](https://ejs.co/) as the express view engine, and your choice of [RethinkDB](https://rethinkdb.com/) or [SQLite](https://sqlite.org/index.html) as a database.
