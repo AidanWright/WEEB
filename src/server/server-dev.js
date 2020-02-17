@@ -20,7 +20,7 @@ app.use(webpackHotMiddleware(compiler));
 
 app.get("*", (req, res) => {
   res.render("index.ejs", {
-    "url": "www.google.com"
+    "url": "https://www.google.com"
   });
 });
 

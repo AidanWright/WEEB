@@ -9,9 +9,9 @@ BWEER/S is a modified version of Ben Grunfeld's [Expack](https://github.com/beng
 
 BWEER/S has two build modes: Development and Production.
 
-When you run `npm run buildDev`, Javascript, HTML, and CSS files are unminified and not uglified, meaning that you can easily inspect them in Chrome Dev Tools. Hot Module Reloading is enabled via `webpack-dev-middleware` and `webpack-hot-middleware`.
+When you run `npm run build:dev`, Javascript, HTML, and CSS files are unminified and not uglified, meaning that you can easily inspect them in Chrome Dev Tools. Hot Module Reloading is enabled via `webpack-dev-middleware` and `webpack-hot-middleware`.
 
-When you run `npm run buildProd`, Javascript, HTML, and CSS files are all minified and uglified, and images are encoded as Base64 directly into your CSS file, which results in less calls to the server for image files.
+When you run `npm run build:prod`, Javascript, HTML, and CSS files are all minified and uglified, and images are encoded as Base64 directly into your CSS file, which results in less calls to the server for image files.
 
 To start the server run `npm start`, and navigate to `localhost:8080`
 
@@ -43,7 +43,7 @@ Eslint uses the rules found in [.eslintrc.js](.eslintrc.js) to lint and does not
 
 And
 
-`npm run lint:fix` will run Eslint and fix the found mistakes. This is run during every build
+`npm run lint:fix` will run Eslint and fix the found mistakes. This is run during every production build
 
 ## Google App Engine Flex Deployment
 

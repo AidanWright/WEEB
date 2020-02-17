@@ -1,15 +1,18 @@
 import path from "path";
 import express from "express";
 
-const app = express(),
-  DIST_DIR = __dirname,
-  HTML_FILE = path.join(DIST_DIR, "index.html");
+const app = express();
 
+app.engine("html", require("ejs").renderFile);
+app.set("view engine", "ejs");
+app.set("views", path.join(__dirname));
 
-app.use(express.static(DIST_DIR));
+app.use(express.static(__dirname));
 
 app.get("*", (req, res) => {
-  res.sendFile(HTML_FILE);
+  res.render("index.ejs", {
+    "url": "https://www.google.com"
+  });
 });
 
 const PORT = process.env.PORT || 8080;
