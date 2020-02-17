@@ -1,7 +1,7 @@
 {
   "name": "BWEER/S",
   "version": "1.0.0",
-  "description": "BWEER/s is a Modifed Version of Ben Grunfeld's Expack that allows use of EJS and bootstrap.",
+  "description": "BWEER/S is a Modifed Version of Ben Grunfeld's Expack that allows use of EJS and bootstrap.",
   "main": "index.js",
   "scripts": {
     "test": "jest",

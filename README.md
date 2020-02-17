@@ -1,5 +1,5 @@
 # Expack - Express and Webpack Boilerplate
-## Modified By Aidan Wright to work with EJS and bootstrap
+### Modified By Aidan Wright to work with EJS and bootstrap
 Expack is the bare-bones Express and Webpack boilerplate with ES6+ babel transpilation, ESLint linting, Hot Module Reloading, and Jest test framework enabled.
 
 Expack has two build modes: Development and Production.
