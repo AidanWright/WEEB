@@ -1,7 +1,7 @@
 {
-  "name": "BWEER-S",
-  "version": "0.1.1",
-  "description": "BWEER/S is a Modifed Version of Ben Grunfeld's Expack that allows use of EJS and bootstrap.",
+  "name": "WEEB",
+  "version": "0.1.3",
+  "description": "WEEB is a Modifed Version of Ben Grunfeld's Expack that allows use of Webpack and Express along with Ejs and Bootstrap.",
   "main": "index.js",
   "scripts": {
     "test": "jest",
@@ -39,6 +39,7 @@
     "babel-eslint": "*",
     "babel-jest": "*",
     "babel-loader": "*",
+    "codecov": "^3.6.5",
     "css-loader": "*",
     "eslint": "*",
     "eslint-config-standard": "*",

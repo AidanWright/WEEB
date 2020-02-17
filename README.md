@@ -1,13 +1,13 @@
-# BWEER/S
+# WEEB
 ###### **Bootstrap + Webpack + Express + Ejs + RethinkDB/SQLite**
 
-[![CircleCI](https://circleci.com/gh/AidanWright/BWEER-S.svg?style=shield)](https://circleci.com/gh/AidanWright/BWEER-S) [![codecov](https://codecov.io/gh/AidanWright/BWEER-S/branch/master/graph/badge.svg)](https://codecov.io/gh/AidanWright/BWEER-S) [![](https://david-dm.org/AidanWright/BWEER-S.svg)](https://david-dm.org/AidanWright/BWEER-S) [![](https://david-dm.org/AidanWright/BWEER-S/dev-status.svg)](https://david-dm.org/AidanWright/BWEER-S?type=dev) [![Known Vulnerabilities](https://snyk.io/test/github/AidanWright/BWEER-S/badge.svg?targetFile=package.json)](https://snyk.io/test/github/AidanWright/BWEER-S?targetFile=package.json) [![HitCount](http://hits.dwyl.com/AidanWright/BWEER-S.svg)](http://hits.dwyl.com/AidanWright/BWEER-S)
+[![CircleCI](https://circleci.com/gh/AidanWright/WEEB.svg?style=shield)](https://circleci.com/gh/AidanWright/WEEB) [![codecov](https://codecov.io/gh/AidanWright/WEEB/branch/master/graph/badge.svg)](https://codecov.io/gh/AidanWright/WEEB) [![](https://david-dm.org/AidanWright/WEEB.svg)](https://david-dm.org/AidanWright/WEEB) [![](https://david-dm.org/AidanWright/WEEB/dev-status.svg)](https://david-dm.org/AidanWright/WEEB?type=dev) [![Known Vulnerabilities](https://snyk.io/test/github/AidanWright/WEEB/badge.svg?targetFile=package.json)](https://snyk.io/test/github/AidanWright/WEEB?targetFile=package.json) [![HitCount](http://hits.dwyl.com/AidanWright/WEEB.svg)](http://hits.dwyl.com/AidanWright/WEEB)
 --
-BWEER/S is a modified version of Ben Grunfeld's [Expack](https://github.com/bengrunfeld/expack)--a boilerplate with [ES6+ babel transpilation](https://babeljs.io/docs/en/), [ESLint](https://eslint.org/) linting, [Hot Module Replacement](https://webpack.js.org/guides/hot-module-replacement/), and [Jest test framework](https://jestjs.io/)--that uses [Bootstrap](https://getbootstrap.com/) for easy templating, [Ejs](https://ejs.co/) as the express view engine, and your choice of [RethinkDB](https://rethinkdb.com/) or [SQLite](https://sqlite.org/index.html) as a database.
+WEEB is a modified version of Ben Grunfeld's [Expack](https://github.com/bengrunfeld/expack)--a boilerplate with [ES6+ babel transpilation](https://babeljs.io/docs/en/), [ESLint](https://eslint.org/) linting, [Hot Module Replacement](https://webpack.js.org/guides/hot-module-replacement/), and [Jest test framework](https://jestjs.io/)--that uses [Bootstrap](https://getbootstrap.com/) for easy templating, [Ejs](https://ejs.co/) as the express view engine, and your choice of [RethinkDB](https://rethinkdb.com/) or [SQLite](https://sqlite.org/index.html) as a database.
 
 ## Getting Started
 
-BWEER/S has two build modes: Development and Production.
+WEEB has two build modes: Development and Production.
 
 When you run `npm run build:dev`, Javascript, HTML, and CSS files are unminified and not uglified, meaning that you can easily inspect them in Chrome Dev Tools. Hot Module Reloading is enabled via `webpack-dev-middleware` and `webpack-hot-middleware`.
 
@@ -23,10 +23,10 @@ You will need [Node.js](https://nodejs.org/en/). LTS will work for most users.
 
 ### Installing
 
-To install BWEER/S clone the repository and install the node modules:
+To install WEEB clone the repository and install the node modules:
 ```
-git clone https://github.com/AidanWright/BWEER-S
-cd BWEER-S
+git clone https://github.com/AidanWright/WEEB
+cd WEEB
 npm install
 ```
 
@@ -57,13 +57,13 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/AidanWright/BWEER-S/tags).
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/AidanWright/WEEB/tags).
 
 ## Authors
 
 * [**Aidan Wright**](https://github.com/AidanWright)
 
-See also the list of [contributors](https://github.com/AidanWright/BWEER-S/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/AidanWright/WEEB/contributors) who participated in this project.
 
 ## License
 
