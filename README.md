@@ -15,6 +15,8 @@ When you run `npm run build:prod`, Javascript, HTML, and CSS files are all minif
 
 To start the server run `npm start`, and navigate to `localhost:8080`
 
+To update devDependencies past major versions, use `npm run update:packages`. Use with caution: this will take a while and has a chance to break things! Instead, use `npm update --save/--save-dev` unless you really need those updates.
+
 ### Prerequisites
 
 You will need [Node.js](https://nodejs.org/en/). LTS will work for most users.
