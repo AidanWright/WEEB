@@ -1,3 +1,5 @@
+![MIT](https://img.shields.io/github/license/AidanWright/BWEER-S "MIT License")
+
 # BWEER/S
 **Bootstrap + Webpack + Express + Ejs + RethinkDB/SQLite**
 
