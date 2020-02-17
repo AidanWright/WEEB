@@ -3,7 +3,7 @@
 
 [![Build Status](https://travis-ci.com/AidanWright/WEEB.svg?branch=master)](https://travis-ci.com/AidanWright/WEEB) [![codecov](https://codecov.io/gh/AidanWright/WEEB/branch/master/graph/badge.svg)](https://codecov.io/gh/AidanWright/WEEB) [![](https://david-dm.org/AidanWright/WEEB.svg)](https://david-dm.org/AidanWright/WEEB) [![](https://david-dm.org/AidanWright/WEEB/dev-status.svg)](https://david-dm.org/AidanWright/WEEB?type=dev) [![Known Vulnerabilities](https://snyk.io/test/github/AidanWright/WEEB/badge.svg?targetFile=package.json)](https://snyk.io/test/github/AidanWright/WEEB?targetFile=package.json) [![HitCount](http://hits.dwyl.com/AidanWright/WEEB.svg)](http://hits.dwyl.com/AidanWright/WEEB)
 --
-WEEB is a modified version of Ben Grunfeld's [Expack](https://github.com/bengrunfeld/expack)--a boilerplate with [ES6+ babel transpilation](https://babeljs.io/docs/en/), [ESLint](https://eslint.org/) linting, [Hot Module Replacement](https://webpack.js.org/guides/hot-module-replacement/), and [Jest test framework](https://jestjs.io/)--that uses [Bootstrap](https://getbootstrap.com/) for easy templating, [Ejs](https://ejs.co/) as the express view engine, and your choice of [RethinkDB](https://rethinkdb.com/) or [SQLite](https://sqlite.org/index.html) as a database.
+WEEB is a modified version of Ben Grunfeld's [Expack](https://github.com/bengrunfeld/expack)--a boilerplate with [ES6+ babel transpilation](https://babeljs.io/docs/en/), [ESLint](https://eslint.org/) linting, [Hot Module Replacement](https://webpack.js.org/guides/hot-module-replacement/), and [Jest test framework](https://jestjs.io/)--that uses [Bootstrap](https://getbootstrap.com/) for easy templating and [Ejs](https://ejs.co/) as the express view engine
 
 ## Getting Started
 
