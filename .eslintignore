@@ -1,0 +1,16 @@
+node_modules
+.DS_Store
+dist
+
+Coverage
+coverage
+
+__mocks__
+.git
+src/css
+src/html
+src/img
+src/js/test
+webpack.*
+package.json
+package-lock.json
