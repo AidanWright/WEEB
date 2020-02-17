@@ -35,7 +35,7 @@ And
 `npm run coverage` will generate a coverage report.
 
 ### Linting
-Eslint uses the rules found in [.eslintrc.js](https://github.com/AidanWright/BWEER-S/blob/master/.eslintrc.js) to lint and does not lint any of the files found in [.eslintignore](https://github.com/AidanWright/BWEER-S/blob/master/.eslintignore)  
+Eslint uses the rules found in [.eslintrc.js](.eslintrc.js) to lint and does not lint any of the files found in [.eslintignore](.eslintignore)  
 
 `npm run lint` will run Eslint but will **not** fix any mistakes.
 
@@ -49,7 +49,7 @@ Expack can be deployed directly to Google App Engine Flex with the command `npm 
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/AidanWright/BWEER-S/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
