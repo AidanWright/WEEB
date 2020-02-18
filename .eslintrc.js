@@ -7,7 +7,10 @@ module.exports = {
   "extends": "eslint:recommended",
   "globals": {
     "Atomics": "readonly",
-    "SharedArrayBuffer": "readonly"
+    "SharedArrayBuffer": "readonly",
+    "$": "readonly",
+    "define": "readonly",
+    "jQuery": "readonly"
   },
   "parserOptions": {
     "ecmaVersion": 2018,
@@ -29,6 +32,10 @@ module.exports = {
     "semi": [
       "error",
       "always"
+    ],
+    "no-mixed-spaces-and-tabs": [
+      2,
+      "smart-tabs"
     ]
   }
 };

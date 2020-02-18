@@ -14,3 +14,6 @@ src/js/test
 webpack.*
 package.json
 package-lock.json
+src/js/bootstrap.*
+src/js/jquery.*
+*.min.*

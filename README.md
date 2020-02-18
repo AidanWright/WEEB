@@ -67,4 +67,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-Again, this would not be possible without Ben Grunfeld and his amazing boilerplate.
+- The example webpage given uses landing, a free bootstrap template by [uicookies](https://uicookies.com/)
+- Again, this would not be possible without Ben Grunfeld and his amazing boilerplate.
