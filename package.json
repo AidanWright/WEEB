@@ -1,6 +1,6 @@
 {
   "name": "WEEB",
-  "version": "0.1.4",
+  "version": "1.0.0",
   "description": "WEEB is a Modifed Version of Ben Grunfeld's Expack that allows use of Webpack and Express along with Ejs and Bootstrap.",
   "main": "index.js",
   "scripts": {
